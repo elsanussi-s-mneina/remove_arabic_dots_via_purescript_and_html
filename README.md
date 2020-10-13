@@ -1,3 +1,10 @@
+# Introduction
+What it does:
+Removes dots from Arabic letter. For example ج becomes ح.
+
+How it runs:
+  Inside a web browser with Javascript enabled.
+
 # Developer Requirements
  - Purescript compiler (purs version 0.13.8)
    - with Spago version 0.16.0 (a build system for Purescript)
